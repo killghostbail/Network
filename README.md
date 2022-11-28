@@ -8,4 +8,4 @@ ____
 ____
 ## Result:
 
-![image](https://user-images.githubusercontent.com/115931010/204324337-a6cb03b2-c272-4721-9c5c-7fbbfcd6a10d.png))
+![image](https://user-images.githubusercontent.com/115931010/204324337-a6cb03b2-c272-4721-9c5c-7fbbfcd6a10d.png)
